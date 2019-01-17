@@ -1,0 +1,294 @@
+
+nav{
+    border-radius: 0%;
+}
+.divnav{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.linea{
+    background-color: #3f7812;
+}
+.topnav{
+    margin-top: 10%;
+}
+.color{
+    background-color: #3f7812;
+    color: white !important;
+}
+.color:hover{
+    background-color: #3f7812;
+}
+.red{
+    color:red;
+}
+.red:hover{
+    color:red !important; 
+    font-style: underline !important;
+}
+.fondogris{
+    background-color: grey;
+}
+.colorletra{
+    color:  #3f7812;
+}
+.colorletra:hover{
+    color:  #3f7812;
+}
+.color:active{
+    background-color: #3f7812 !important;
+    color:white !important;
+}
+.panel-heading{
+    background-color: #1e3817;
+}
+a:visited{
+    text-decoration: none !important;
+}
+img.posicion{
+
+}
+video {
+max-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;   
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);  
+  z-index: -1;
+  background-size: cover;
+}
+.posicion{
+    height: 50px;
+    width: 50px;
+}
+.verde{
+    color: #3f7812;
+}
+.margenav{
+    margin-top: 8%;
+}
+.sinpadding{
+    padding: 0%;
+}
+
+.btnfull{
+    width: 100%;
+    height: 100%;
+    background-color:  green;
+    margin: 0%;
+}
+.trancho{
+    width: 3% !important;
+}
+.fondoalquilar{
+    background-color:  green;
+    color: white;
+}
+.fondoalquilado{
+    color:white;
+    background-color: red;
+}
+.btn-primary{
+    color: white !important;
+}
+.navbar-default .nav li a{
+  color:  #1e3817  !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+    color:  #3f7812 !important;
+}
+.color{
+    color: #5b7764;
+
+}
+.links > a {
+                color: #5b7764;
+                padding: 0 25px;
+                font-size: 12px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+a:hover { color:  #3f7812 ; }
+html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+                font-weight: 100;
+                height: 100;
+                margin: 0;
+                padding:0;
+            }
+h1 {
+    font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+}
+h3 {
+    font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 15.4px;
+}
+p {
+    font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+.full-height {
+                height: 100vh;
+            }   
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .top-right {
+                position: absolute;
+                right: 10px;
+                top: 18px;
+            }
+
+            .content {
+                text-align: center;
+            }
+
+            .title {
+                font-size: 84px;
+            }
+
+            
+
+            .m-b-md {
+                margin-bottom: 30px;
+            }
+.divhome{
+    margin-top: 50%;
+    padding: 5%;
+    transition: black 2s;
+    margin-bottom: 0%;
+}
+.gris{
+    background-color: #bdbdbd;
+}
+.borde{
+    border-right: 
+}
+.pie{
+    background-color: black;
+    color: #bdbdbd;
+    margin: 0%;
+    padding: 2%;
+}
+.tam{
+    width: 55px;
+    height: 55px;
+}
+.personal{
+    background-color: grey;
+    color: white;
+    border-color: grey;
+    width: 60%;
+}
+
+.navbar-header{
+    margin-right: 13% !important;
+}
+
+.navbar-nav > li > a {
+    padding-top:20px !important; padding-bottom:0 !important;
+    height: 60px; /* aqui escoges el alto que necesites */
+}
+.navbar-brand{
+    padding-top: 5%;
+}
+.navbar {
+    min-height:60px !important; /* aqui escoges el alto que necesites */
+}
+.negrita{
+    font-weight: bold;
+    font-size: 16px;
+}
+.subrayado{
+    border-bottom-style: solid;
+}
+/*ventana copyright*/
+#overbox3 {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 999999;
+    display: block;
+}
+#infobox3 {
+    margin: auto;
+    position: relative;
+    top: 0px;
+    height: 58px;
+    width: 100%;
+    text-align:center;
+    background-color: #eeeeee;
+}
+#infobox3 p {
+    line-height:58px;
+    font-size:12px;
+    text-align:center;
+}
+#infobox3 p a {
+    margin-right:5px;
+    text-decoration: underline;
+}
+//panelUsuario
+.pad{
+    margin-top: 7%;
+}
+.padd{
+    margin-bottom: 7%;
+}
+.paddd{
+    margin-top: 5%;
+    margin-left: 4%;
+
+}
+.marginado{
+    margin-left: 7%;
+}
+.marginado2{
+    margin-left: 5%;
+    padding-top: 3%;
+}
+.fondopanel{
+    margin-top: 2%;
+    background-image: url('../images/fondopanel.jpg');
+    background-repeat: no-repeat;
+    background-position: 275px 5px;
+}
+.fondoalquila{
+    background-image: url('');
+}
+.colorblanco{
+    color: white;
+    font-style: bold;
+}
+.fondorojo{
+    background-color: red;
+}

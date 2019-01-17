@@ -1,0 +1,38 @@
+.cantidad{
+    text-align: right;
+}
+.carro{
+    font-size: 23px;
+}
+.tituloCarro{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 2%;
+}
+.add{
+    text-align: center;
+}
+.delete{
+    border:none;
+    text-align: center;
+}
+#padre {
+    display: table;
+}
+#hijo {
+    display: table-cell;
+    vertical-align: middle;
+}
+.principal{
+    margin-top: 8%;
+    margin-bottom: 10%;
+    margin-left:5%;
+}
+.pedido{
+    font-size: 40px;
+}
+.botonEliminar{ border: none; width: 20px; background-color: transparent; }
+
+.pequeño{
+    font-size: 15px;
+}
